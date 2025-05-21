@@ -14,7 +14,7 @@ This is a simple digital clock web application built using **HTML**, **CSS**, an
 To run this project, simply clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/Yugal-kosamshile/Watch-using-html-css-js
 cd digital-clock
 open index.html
 ```
@@ -22,12 +22,10 @@ open index.html
 ## 📁 File Structure
 
 * `index.html` — HTML structure
-* `index.js` — JavaScript logic for the clock
-* `style.css` (optional if separated) — Styles for layout and appearance
 
 ## 📸 Preview
 
-![Clock Preview](preview.png) *(Add a screenshot of your clock UI)*
+![Clock Preview](image.png)
 
 ## 🛠️ Future Improvements
 
